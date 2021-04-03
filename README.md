@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'M CURRENTLY LEARNING HOW TO BECOME A FRONT END DEVELOPER 💻
 
 <!--
 **djeason27/djeason27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
